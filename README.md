@@ -1,0 +1,5 @@
+- Python 3.x
+- Streamlit
+- SQLite
+- SMTP (Mailtrap for testing)
+- Pandas
